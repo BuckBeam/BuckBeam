@@ -35,9 +35,4 @@ src="https://img.shields.io/twitch/status/buckbeampro?logo=twitchsx&style=for-th
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/BuckBeam"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BuckBeam&stroke=22c55e&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=22c55e&currStreakLabel=ec4899&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" /></a>href="https://www.twitch.tv/buckbeampro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
-### Badges
-
-<b>My GitHub Stats</b>
-
 <a href="http://www.github.com/BuckBeam"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BuckBeam&stroke=22c55e&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=22c55e&currStreakLabel=ec4899&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" /></a>
